@@ -7,7 +7,7 @@
 
 <div align="center">
   
-💻 Eu sou Estudante de Análise e Desenvolvimento de Sistemas Back-end.
+💻 Eu sou Estudante de Análise e Desenvolvimento de Sistemas.
 
 </div>
 
