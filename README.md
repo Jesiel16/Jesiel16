@@ -4,7 +4,8 @@
   </a>
 </p>
 
-![_aef5da90-4800-4aeb-bf47-c55071f6a608](https://github.com/user-attachments/assets/d0939258-ac1b-42fd-ae72-38c87f5c43e4)
+
+![_aef5da90-4800-4aeb-bf47-c55071f6a608 (1)](https://github.com/user-attachments/assets/223a597a-9eeb-48e8-b9da-40b50e9f6ec8)
 
 
 * 💻 Graduando em Análise e Desenvolvimento de Sistemas.
