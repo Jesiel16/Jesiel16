@@ -4,13 +4,16 @@
   </a>
 </p>
 
+![_aef5da90-4800-4aeb-bf47-c55071f6a608](https://github.com/user-attachments/assets/d0939258-ac1b-42fd-ae72-38c87f5c43e4)
 
-<div align="center">
-  
-💻 Eu sou Estudante de Análise e Desenvolvimento de Sistemas.
 
-</div>
+* 💻 Graduando em Análise e Desenvolvimento de Sistemas.
+* 🎯 Focado nas principais tecnologias do mercado.
+* 📚 Aprendendo tudo de forma autoditada.
+* 👨‍💻 Construindo projetos e soluções inovadoras.
 
+
+<br>
 <div align="center">
   <a href="https://github.com/MateusSouzaAlves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jesiel16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
