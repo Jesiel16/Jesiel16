@@ -4,7 +4,10 @@
   </a>
 </p>
 
-![_aef5da90-4800-4aeb-bf47-c55071f6a608 (1) (1)](https://github.com/user-attachments/assets/c0e4c23b-a901-4e86-9bad-992934b2071c)
+* 💻 Graduando em Análise e Desenvolvimento de Sistemas.
+* 🎯 Focado nas principais tecnologias do mercado.
+* 📚 Aprendendo tudo de forma autoditada.
+* 👨‍💻 Construindo projetos e soluções inovadoras.
 
 
 <br>
@@ -13,13 +16,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jesiel16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesiel16&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-
-* 💻 Graduando em Análise e Desenvolvimento de Sistemas.
-* 🎯 Focado nas principais tecnologias do mercado.
-* 📚 Aprendendo tudo de forma autoditada.
-* 👨‍💻 Construindo projetos e soluções inovadoras.
-
 
 
     
