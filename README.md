@@ -4,10 +4,10 @@
   </a>
 </p>
 
-* 💻 Graduando em Análise e Desenvolvimento de Sistemas.
-* 🎯 Focado nas principais tecnologias do mercado.
-* 📚 Aprendendo tudo de forma autoditada.
-* 👨‍💻 Construindo projetos e soluções inovadoras.
+ 💻 Graduando em Análise e Desenvolvimento de Sistemas.
+ 🎯 Focado nas principais tecnologias do mercado.
+ 📚 Aprendendo tudo de forma autoditada.
+ 👨‍💻 Construindo projetos e soluções inovadoras.
 
 
 <br>
