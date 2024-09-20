@@ -1,13 +1,12 @@
 <h2 align="left">Hi 👋! My name is  Jesiel Ricardo</h2>
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgwcXI0ZHY5cW1xdHpwYTIybGk4cW9id3NtbjBmNm1sODVqbm4xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"  />
+<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgwcXI0ZHY5cW1xdHpwYTIybGk4cW9id3NtbjBmNm1sODVqbm4xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"  />
 
 <p align="left">💻 Graduando em Análise e Desenvolvimento de Sistemas.<br>🎯 Focado nas principais tecnologias do mercado.<br>📚 Aprendendo tudo de forma autoditada.<br>👨‍💻 Construindo projetos e soluções inovadoras.</p>
 
 <div align="center">
   <a href="https://github.com/MateusSouzaAlves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jesiel16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesiel16&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
