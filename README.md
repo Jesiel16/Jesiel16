@@ -9,6 +9,14 @@
 
 ###
 
+###
+
+<div align="center">
+  <a href="https://github.com/MateusSouzaAlves">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jesiel16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesiel16&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -28,9 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
-
-###
-
+<br>
 <div align="left">
   <a href="jesielll.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -39,11 +45,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<div align="center">
-  <a href="https://github.com/MateusSouzaAlves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jesiel16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesiel16&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
-###
