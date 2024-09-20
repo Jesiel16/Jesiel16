@@ -2,14 +2,7 @@
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgwcXI0ZHY5cW1xdHpwYTIybGk4cW9id3NtbjBmNm1sODVqbm4xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"  />
 
-###
-
 <p align="left">💻 Graduando em Análise e Desenvolvimento de Sistemas.<br>🎯 Focado nas principais tecnologias do mercado.<br>📚 Aprendendo tudo de forma autoditada.<br>👨‍💻 Construindo projetos e soluções inovadoras.</p>
-
-
-###
-
-###
 
 <div align="center">
   <a href="https://github.com/MateusSouzaAlves">
