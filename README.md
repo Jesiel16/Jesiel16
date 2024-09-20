@@ -4,7 +4,7 @@
 
 <p align="left">💻 Graduando em Análise e Desenvolvimento de Sistemas.<br>🎯 Focado nas principais tecnologias do mercado.<br>📚 Aprendendo tudo de forma autoditada.<br>👨‍💻 Construindo projetos e soluções inovadoras.</p>
 
-<div align itens="center">
+<div display="flex"align itens="center">
   <a href="https://github.com/MateusSouzaAlves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jesiel16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesiel16&layout=compact&langs_count=7&theme=dark"/>
