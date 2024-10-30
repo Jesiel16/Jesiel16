@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Jesiel Ricardo</h2>
-
-<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgwcXI0ZHY5cW1xdHpwYTIybGk4cW9id3NtbjBmNm1sODVqbm4xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"  />
+<h3 align="left"> Olá! Eu sou o Jesiel Ricardo 💻</h3>
 
 <p align="left">💻 Graduando em Análise e Desenvolvimento de Sistemas.<br>🎯 Focado nas principais tecnologias do mercado.<br>📚 Aprendendo tudo de forma autoditada.<br>👨‍💻 Construindo projetos e soluções inovadoras.</p>
 
@@ -40,3 +38,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgwcXI0ZHY5cW1xdHpwYTIybGk4cW9id3NtbjBmNm1sODVqbm4xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"/><img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgwcXI0ZHY5cW1xdHpwYTIybGk4cW9id3NtbjBmNm1sODVqbm4xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"/>
